@@ -1,5 +1,7 @@
 # react-native-pong-battle
 
+https://github.com/IlyaPyatkin/react-native-pong-battle/assets/17959585/e8972b4b-cec0-4b62-a80e-d7bd00a2ed8b
+
 [Link to snack](https://snack.expo.dev/@baldur_ru/react-native-pong-battle?platform=web)
 
 Inspired by [this](https://x.com/nicolasdnl/status/1749715070928433161?s=20) post.
